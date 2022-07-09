@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
+
+* {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+body {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/017/959/133/large/simone-mandl-190215-2.jpg?1557997208&dl=1);
+    background-attachment: fixed;
+    background-size: cover;
+    
+}

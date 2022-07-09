@@ -1,0 +1,17 @@
+.titulo-repos {
+    text-align: center;
+    color: purple;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.infos {
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    font-weight: 80px;
+    color: white;
+}
